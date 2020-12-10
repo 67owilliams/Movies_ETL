@@ -4,6 +4,13 @@ __pycache__/
 *$py.class
 
 config.py
+credits.csv
+keywords.csv
+links.cdv
+links_small.csv
+movies_metadata.csv
+ratings.csv
+ratings_samll.csv
 
 # C extensions
 *.so
